@@ -1,0 +1,15 @@
+D:\CODE\CSharp入门实践\入门实践\bin\Debug\net6.0\入门实践.exe
+D:\CODE\CSharp入门实践\入门实践\bin\Debug\net6.0\入门实践.deps.json
+D:\CODE\CSharp入门实践\入门实践\bin\Debug\net6.0\入门实践.runtimeconfig.json
+D:\CODE\CSharp入门实践\入门实践\bin\Debug\net6.0\入门实践.dll
+D:\CODE\CSharp入门实践\入门实践\bin\Debug\net6.0\入门实践.pdb
+D:\CODE\CSharp入门实践\入门实践\obj\Debug\net6.0\入门实践.csproj.AssemblyReference.cache
+D:\CODE\CSharp入门实践\入门实践\obj\Debug\net6.0\入门实践.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CSharp入门实践\入门实践\obj\Debug\net6.0\入门实践.AssemblyInfoInputs.cache
+D:\CODE\CSharp入门实践\入门实践\obj\Debug\net6.0\入门实践.AssemblyInfo.cs
+D:\CODE\CSharp入门实践\入门实践\obj\Debug\net6.0\入门实践.csproj.CoreCompileInputs.cache
+D:\CODE\CSharp入门实践\入门实践\obj\Debug\net6.0\入门实践.dll
+D:\CODE\CSharp入门实践\入门实践\obj\Debug\net6.0\refint\入门实践.dll
+D:\CODE\CSharp入门实践\入门实践\obj\Debug\net6.0\入门实践.pdb
+D:\CODE\CSharp入门实践\入门实践\obj\Debug\net6.0\入门实践.genruntimeconfig.cache
+D:\CODE\CSharp入门实践\入门实践\obj\Debug\net6.0\ref\入门实践.dll
